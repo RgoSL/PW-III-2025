@@ -1,5 +1,11 @@
-# Função Create no Laravel
+# 📋 Criando um Formulário
 
-Na segunda aula, foi feito um formulário de inserção de dados no banco. O banco foi criado e manipulado através do Framework Laravel.
+### Descrição
+
+> Na segunda aula, foi feito um formulário de inserção de dados no banco.
+
+<br>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+---
