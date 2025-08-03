@@ -33,4 +33,9 @@ Na quinta aula, foi feito um teste da criação e da navegação pelo kit do Bre
 - 🪪 [Quinta Aula](https://github.com/RgoSL/PW-III-2025/tree/Aula05) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
 <br>
 
+### ⌨️ Chat Funcional
+Na sexta aula foi feito um chat de texto entre duas contas. Nessa atividade foram utilizadas as tecnologias Laravel, Breeze e o Chatify.
+- ⌨️ [Sexta Aula](https://github.com/RgoSL/PW-III-2025/tree/Aula06) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
+<br>
+
 ----
