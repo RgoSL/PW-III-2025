@@ -7,6 +7,6 @@
 <br>
 
 ## Chat Interface
- <img src= "https://github.com/RgoSL/PW-III-2025/blob/Aula06/Tela%20do%20Chatify.png" alt="Página do Projeto"/>
+ <img src= "https://github.com/RgoSL/PW-III-2025/blob/Ativ06/Tela%20do%20Chatify.png" alt="Página do Projeto"/>
 
 ---
